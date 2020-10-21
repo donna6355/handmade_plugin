@@ -22,6 +22,7 @@ All `<li />` must be 'float:left or flex' in a row.
 				</ul>
 			</div>
       
+      
 2. typing.js
 Each `<p />` and `<div.txtBox />` has to be set as 'display:none'
         <div class="txtBox">
@@ -29,6 +30,7 @@ Each `<p />` and `<div.txtBox />` has to be set as 'display:none'
           <p>Elaborate</p>
           <p>Sense of Humor</p>
         </div>
+
 
 3. dragEvent.js
 `<section />` has to be set as 'position:relative' and `<span.drag />` has to be set as 'position:absolute'
