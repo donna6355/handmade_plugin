@@ -29,6 +29,6 @@ Each `<p />` has to be set as 'display:none'
 3. dragEvent.js
 `<section />` has to be set as 'position:relative' and `<span.drag />` has to be set as 'position:absolute'
 
-	 <section>
+        <section>
             <span class="drag">You can drag this!</span>
         </section>
