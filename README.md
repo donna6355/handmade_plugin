@@ -2,7 +2,7 @@
 Each portfolio work uploaded
 
 1. infinite_slide.js
-Each <li /> MUST have different class or id for image replacement.
+Each `<li />` MUST have different class or id for image replacement.
 
 			<div id="slides">
 				<ul class="slides-container clearfix">
