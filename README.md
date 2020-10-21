@@ -18,10 +18,17 @@ Each `<li />` MUST have different class or id for image replacement.
 			</div>
       
 2. typing.js
-Each `<p />` has to be set as `display:none`
+Each `<p />` has to be set as 'display:none'
 
         <div class="txtBox">
           <p>Challenging</p>
           <p>Elaborate</p>
           <p>Sense of Humor</p>
         </div>
+
+3. dragEvent.js
+`<section />` has to be set as 'position:relative' and `<span.drag />` has to be set as 'position:absolute'
+
+	 <section>
+            <span class="drag">You can drag this!</span>
+        </section>
