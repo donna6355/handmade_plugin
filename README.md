@@ -1,4 +1,5 @@
 #handmade_plugin
+**jQuery API
 
 
 1. infinite_slide.js
