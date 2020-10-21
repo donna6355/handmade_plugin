@@ -3,7 +3,11 @@
 
 
 1. infinite_slide.js
-Each `<li />` MUST have different class or id for image replacement.
+Each `<li />` MUST have different class or id for image replacement. 
+All `<li />` must be 'float:left or flex' in a row.
+`<ul.slides-container/>`has enough width value to contain all `<li />` and to be set as 'position:absolute'
+`<div #slides />`has to be set as 'position:relative, overflow:hidden'. 
+
 
 			<div id="slides">
 				<ul class="slides-container clearfix">
@@ -19,8 +23,7 @@ Each `<li />` MUST have different class or id for image replacement.
 			</div>
       
 2. typing.js
-Each `<p />` has to be set as 'display:none'
-
+Each `<p />` and `<div.txtBox />` has to be set as 'display:none'
         <div class="txtBox">
           <p>Challenging</p>
           <p>Elaborate</p>
