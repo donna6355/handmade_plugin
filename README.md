@@ -17,4 +17,11 @@ Each `<li />` MUST have different class or id for image replacement.
 				</ul>
 			</div>
       
-2. 
+2. typing.js
+Each `<p />` has to be set as `display:none`
+
+        <div class="txtBox">
+          <p>Challenging</p>
+          <p>Elaborate</p>
+          <p>Sense of Humor</p>
+        </div>
