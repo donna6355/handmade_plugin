@@ -25,6 +25,7 @@ All `<li />` must be 'float:left or flex' in a row.
       
 2. typing.js
 Each `<p />` and `<div.txtBox />` has to be set as 'display:none'
+
         <div class="txtBox">
           <p>Challenging</p>
           <p>Elaborate</p>
