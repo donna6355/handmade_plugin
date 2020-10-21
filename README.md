@@ -1,5 +1,5 @@
 #handmade_plugin
-Each portfolio work uploaded
+
 
 1. infinite_slide.js
 Each `<li />` MUST have different class or id for image replacement.
